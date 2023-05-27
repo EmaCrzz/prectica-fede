@@ -1,0 +1,16 @@
+/* delete styles ul */
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.hover {
+  cursor: pointer;
+}
+
+.row-flex-between-center {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

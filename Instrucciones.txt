@@ -1,0 +1,20 @@
+Instrucciones
+
+1- Pedir informacion al api✅
+    - mostrar el resultado en consola
+    - agregar estados de carga
+2- recorrer la informacion y listar en pantalla✅
+  - crear una lista dinamica con js y que cada item de la lista sea un suario representado con su nombre de usuario
+3- recargar users✅
+  - eliminar el ul
+  - mostrar el loader
+  - eliminar el loader
+  - mostrar users
+4- mostrar detalle de usuario
+  - al crear cada item asignar un listener de click
+  - cuando le doy a un usuario establecemos el id y filtramos de los usuarios para obtener el detalle
+5- agregar clase de cursor not-allowed cuando un item ya esta desplegado
+
+BUGS:
+1- que no se despliegue mas de un detalle a la vez
+2- no funciona el btn close
